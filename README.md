@@ -9,4 +9,8 @@ Dedicado a proyectos realizados en Unity en los que he tenido que comprimir todo
 
 Scripts desarrollados en Python para un rig facial. 
 
+## Capturas_Pantalla_Rig_Facial
+
+Capturas de pantalla que muestran un rig facial y el sistema nodal utilizado.
+
  
