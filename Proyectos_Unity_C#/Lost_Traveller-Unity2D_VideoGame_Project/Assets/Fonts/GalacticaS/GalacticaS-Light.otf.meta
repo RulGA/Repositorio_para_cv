@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 3f2c9470278310e409ebf3f159ebbce4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Galactica S
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 928d8108b4eb344439738765c7e3f055, type: 3}
+  - {fileID: 12800000, guid: 95655f53377d2c54a97590b5b074d104, type: 3}
+  - {fileID: 12800000, guid: 278979d42e7e0814994ed2ff5292f9cc, type: 3}
+  - {fileID: 12800000, guid: a715e5f23dbe9b8478622d9e4c3d8398, type: 3}
+  - {fileID: 12800000, guid: 71e1c1b859481c84a9270f8b2bc9e954, type: 3}
+  - {fileID: 12800000, guid: f285f05e928a270418a30967c2d92598, type: 3}
+  - {fileID: 12800000, guid: fdc4554e20662cb4a8c85b5a82cb0767, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
