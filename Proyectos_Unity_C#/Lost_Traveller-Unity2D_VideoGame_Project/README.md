@@ -1,6 +1,6 @@
 # Lost_Traveller
 
-Proyecto realizado a principios de 2023 en el que doy mis primeros pasos con Unity y C#.
+Proyecto realizado en el que refresco conocimientos de Unity y C#.
 
 ## Descripción
 
